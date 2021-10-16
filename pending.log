@@ -1,0 +1,6 @@
+
+1.- No se sabe la cantidad que adeuda el cliente
+2.- Corregir al realizar venta a credito no aumenta la cantidad recibida a la caja //
+3.- Agregar transacciones en landing page
+ para q  no vaya a span hay q configurar los registros spf registros dquim y dmark y 
+    registro ptr(dns inverso dentro de tu servidor)
