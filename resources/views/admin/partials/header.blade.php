@@ -8,7 +8,6 @@
       <nav class="nav-menu d-none d-lg-block">
         <ul>
           <li class="active"><a href="/">Inicio</a></li>
-          <li><a href="#about">Sobre Nosotros</a></li>
           <li><a href="#services">Modulos</a></li>
           <li><a href="#portfolio">Proyectos</a></li>
           <li><a href="#team">Equipo</a></li>
@@ -37,8 +36,7 @@
                 @if (\Auth::user()->tenant()->exists())
                   <li>
                     @php
-                        $tenant = \Auth::user()->tenant->domains[0]->domain;
-                       
+                        $tenant = (\Auth::user()->tenant->domains) ? \Auth::user()->tenant->domains[0]->domain : env('APP_DOMAIN');
                     @endphp
                     <a href="//{{$tenant}}" target="_blank">
                        Administracion

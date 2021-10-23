@@ -134,6 +134,10 @@ class PlanController extends Controller
                     'user_id' => auth()->user()->id
                 ]);
                 
+                $tenant->domains()->create([
+                    'domain' => $domain
+                ]);
+
                 // si no ha finalizado subimos el plan
                 if ($currentPlan && ! $currentPlan->ended()) {
                     $currentPlanForCompare = Plan::whereSlug($currentPlan->stripe_plan)->first();

@@ -43,7 +43,7 @@ Route::group(['middleware' => ['auth']], function () {
     Route::post("credit-card",[BillingController::class,'processCreditCardForm'])
         ->name("billing.process_credit_card");
 
-    Route::get("plans",[PlanController::class,'index'])->name("plans.index");
+    Route::get("/plans",[PlanController::class,'index'])->name("plans.index");
     Route::get("createplan", [PlanController::class,'create'])->name("plans.create");
     Route::post("planstore", [PlanController::class,'store'])->name("plans.store");
 

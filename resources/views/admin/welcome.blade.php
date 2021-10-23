@@ -6,7 +6,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
-          <h1>Sistema de Facturacion Electroinica.</h1>
+          <h1>Sistema de Facturación Electrónica.</h1>
           <h2>Construido con mucho amor para ti.</h2>
           <div class="d-lg-flex">
             <a href="#about" class="btn-get-started scrollto">Empezar</a>
@@ -59,36 +59,6 @@
       </div>
     </section><!-- End Cliens Section -->
 
-    <!-- ======= About Us Section ======= -->
-    <section id="about" class="about">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Sobre Nosotros</h2>
-        </div>
-
-        <div class="row content">
-          <div class="col-lg-6">
-            <p>
-              Somos un grupo de estudiantes,egresados,ingenieros entuciasmados en ofrecerte lo mejor i a un precio accesible.
-            </p>
-            <ul>
-              <li><i class="ri-check-double-line"></i>Habilidades en mantenimiento y reparacion de computadoras e impresoras</li>
-              <li><i class="ri-check-double-line"></i> Desarrollo de software a medida</li>
-              <li><i class="ri-check-double-line"></i> Mantenimiento o implementacion de redes</li>
-            </ul>
-          </div>
-          <div class="col-lg-6 pt-4 pt-lg-0">
-            <p>
-              Salimos de la Universidad Autonoma Departamental del Beni.
-            </p>
-            <a href="#" class="btn-learn-more">Leer mas</a>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End About Us Section -->
-
     <!-- ======= Why Us Section ======= -->
     <section id="why-us" class="why-us section-bg">
       <div class="container-fluid" data-aos="fade-up">
@@ -100,7 +70,7 @@
             <div class="content">
               <h3>SYSTCARV 1.0 <strong>Sistema de ventas e inventario</strong></h3>
               <p>
-                LLeno de caracteristicas y opciones que manejarlo te resultara muy facil
+                LLeno de caracteristicas y opciones que manejarlo te resultará muy fácil
               </p>
             </div>
 
@@ -110,13 +80,13 @@
                   <a data-toggle="collapse" class="collapse" href="#accordion-list-1"><span>01</span> Para que tipo de negocio se adapta? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                   <div id="accordion-list-1" class="collapse show" data-parent=".accordion-list">
                     <p>
-                      Se adapta a cualquier tipo de negocio como ferreterias, Motorrespuestos, Farmacias, Veterinarias
+                      Se adapta a cualquier tipo de negocio como ferreterías, Motorrespuestos, Farmacias, Veterinarias
                     </p>
                   </div>
                 </li>
 
                 <li>
-                  <a data-toggle="collapse" href="#accordion-list-2" class="collapsed"><span>02</span> Cuenta con aplicacion movil? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <a data-toggle="collapse" href="#accordion-list-2" class="collapsed"><span>02</span> Cuenta con aplicación móvil? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                   <div id="accordion-list-2" class="collapse" data-parent=".accordion-list">
                     <p>
                       Por el momento no cuenta, Pero es una de nuestras prioridades implementarla.
@@ -125,7 +95,7 @@
                 </li>
 
                 <li>
-                  <a data-toggle="collapse" href="#accordion-list-3" class="collapsed"><span>03</span>La facturacion electronica para que pais aplica? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <a data-toggle="collapse" href="#accordion-list-3" class="collapsed"><span>03</span>La facturacion electronica para que país aplica? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                   <div id="accordion-list-3" class="collapse" data-parent=".accordion-list">
                     <p>
                       Solo aplica para Bolivia.
@@ -153,9 +123,9 @@
             <img src="admin/img/skills.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left" data-aos-delay="100">
-            <h3>Modulos principales del sistema</h3>
+            <h3>Módulos principales del sistema</h3>
             <p class="font-italic">
-              Se muestran los modulos mas importantes con los que se esta lanzando systcarv. aunque incluiremos mucho mas
+              Se muestran los módulos más importantes con los que se esta lanzando systcarv. aunque incluiremos mucho mas
             </p>
 
             <div class="skills-content">
@@ -173,7 +143,7 @@
                 </div>
               </div>
               <div class="progress">
-                <span class="skill">Facturacion electronica <i class="val">55%</i></span>
+                <span class="skill">Facturación electrónica <i class="val">55%</i></span>
                 <div class="progress-bar-wrap">
                   <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
@@ -187,9 +157,9 @@
               </div>
 
               <div class="progress">
-                <span class="skill">Gestion de Citas Medicas <i class="val">0%</i></span>
+                <span class="skill">Gestión de Citas Médicas <i class="val">40%</i></span>
                 <div class="progress-bar-wrap">
-                  <div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+                  <div class="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
               </div>
 
@@ -206,8 +176,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Modulos</h2>
-          <p>Puede tener acceso a todos los modulos que ofrece nuestro sistema</p>
+          <h2>Módulos</h2>
+          <p>Puede tener acceso a todos los módulos que ofrece nuestro sistema</p>
         </div>
 
         <div class="row">
@@ -215,7 +185,7 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
               <h4><a href="">Venta</a></h4>
-              <p>El sistema realiza ventas normales, ventas a creditos y ventas con facturacion electronica</p>
+              <p>El sistema realiza ventas normales, ventas a créditos y ventas con facturación electrónica</p>
             </div>
           </div>
 
@@ -230,8 +200,8 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4><a href="">Citas Medicas</a></h4>
-              <p>Gestion de citas medicas para las clinicas veterinarias</p>
+              <h4><a href="">Citas Médicas</a></h4>
+              <p>Gestión de citas médicas para las clinicas veterinarias</p>
             </div>
           </div>
 
@@ -239,7 +209,7 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bx-layer"></i></div>
               <h4><a href="">Transacciones</a></h4>
-              <p>Puede realizar transacciones entre diferentes cuentas como tambien transferencias a caja</p>
+              <p>Puede realizar transacciones entre diferentes cuentas como también transferencias a caja</p>
             </div>
           </div>
 
@@ -384,7 +354,7 @@
 
         <div class="section-title">
           <h2>Equipo</h2>
-          <p>Nuestro Equipo de trabajo actual en server start.</p>
+          <p>Nuestro Equipo de trabajo.</p>
         </div>
 
         <div class="row">
@@ -398,9 +368,8 @@
                 <p>Desarrollador Junior</p>
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
-                  <a href=""><i class="ri-facebook-fill"></i></a>
+                  <a href="https://www.facebook.com/augusto.carvalhochavez/"><i class="ri-facebook-fill"></i></a>
                   <a href=""><i class="ri-instagram-fill"></i></a>
-                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
                 </div>
               </div>
             </div>
@@ -411,52 +380,16 @@
               <div class="pic"><img src="admin/img/team/team-2.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Mariana Elba Condori Florez</h4>
-                <span>Analista de Sistemas</span>
+                <span>Ingeniera de Sistemas</span>
                 <p>analista de sistemas</p>
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
-                  <a href=""><i class="ri-facebook-fill"></i></a>
+                  <a href="https://www.facebook.com/marianaelba.condoriflores"><i class="ri-facebook-fill"></i></a>
                   <a href=""><i class="ri-instagram-fill"></i></a>
-                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
                 </div>
               </div>
             </div>
           </div>
-
-          <div class="col-lg-6 mt-4">
-            <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="300">
-              <div class="pic"><img src="admin/img/team/team-3.jpg" class="img-fluid" alt=""></div>
-              <div class="member-info">
-                <h4>William Anderson</h4>
-                <span>CTO</span>
-                <p>Quisquam facilis cum velit laborum corrupti fuga rerum quia</p>
-                <div class="social">
-                  <a href=""><i class="ri-twitter-fill"></i></a>
-                  <a href=""><i class="ri-facebook-fill"></i></a>
-                  <a href=""><i class="ri-instagram-fill"></i></a>
-                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-6 mt-4">
-            <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="400">
-              <div class="pic"><img src="admin/img/team/team-4.jpg" class="img-fluid" alt=""></div>
-              <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Accountant</span>
-                <p>Dolorum tempora officiis odit laborum officiis et et accusamus</p>
-                <div class="social">
-                  <a href=""><i class="ri-twitter-fill"></i></a>
-                  <a href=""><i class="ri-facebook-fill"></i></a>
-                  <a href=""><i class="ri-instagram-fill"></i></a>
-                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
-                </div>
-              </div>
-            </div>
-          </div>
-
         </div>
 
       </div>
@@ -468,7 +401,7 @@
 
         <div class="section-title">
           <h2>Precios</h2>
-          <p>Puede Cambiar de plan en cualquier momento y tendra acceso a los demas modulos.</p>
+          <p>Puede Cambiar de plan en cualquier momento y tendra acceso a los demas módulos.</p>
         </div>
 
         <div class="row">
@@ -485,7 +418,7 @@
                 <li class="na"><i class="bx bx-x"></i> <span>Ventas a Credito</span></li>
                 <li class="na"><i class="bx bx-x"></i> <span>Facturacion Electronica</span></li>
               </ul>
-              <a href="#" class="buy-btn">Adquirir</a>
+              <a href="#" class="buy-btn">Ver más</a>
             </div>
           </div>
 
@@ -501,7 +434,7 @@
                 <li><i class="bx bx-check"></i> Ventas a Credito</li>
                 <li class="na"><i class="bx bx-x"></i> <span>Facturacion Electronica</span></li>
               </ul>
-              <a href="{{route('payment.order')}}" class="buy-btn">Adquirir</a>
+              <a href="{{route('plans.index')}}" class="buy-btn">Ver más</a>
             </div>
           </div>
 
@@ -517,7 +450,7 @@
                 <li><i class="bx bx-check"></i> Ventas a Credito</li>
                 <li><i class="bx bx-check"></i> <span>Facturacion Electronica</span></li>
               </ul>
-              <a href="#" class="buy-btn">Adquirir</a>
+              <a href="#" class="buy-btn">Ver más</a>
             </div>
           </div>
 
@@ -568,7 +501,7 @@
               <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-4" class="collapsed">Para que tipo de negocio o empresa se adapta el sistema? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-4" class="collapse" data-parent=".faq-list">
                 <p>
-                  Systcarv fue creado especialmente para una clinica veterinaria, y su farmacia. pero funciona perfecto para farmacias,motorespuestos,Ferreterias,tiendas,etc
+                  Systcarv fue creado especialmente para una clinica veterinaria, y su farmacia. pero funciona perfecto para farmacias, moto respuestos, Ferreterías, tiendas,etc
                 </p>
               </div>
             </li>
